@@ -245,4 +245,4 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY", type="primary", use_container_width=T
 
 # --- CHÂN TRANG ---
 st.markdown("---")
-st.markdown("<div style='text-align: center; color: #666;'>© 2025 - Hoàng Minh Tiến Trường PTDTBT TH Du Tiến
+st.markdown("<div style='text-align: center; color: #666;'>© 2025 - Hoàng Minh Tiến Trường PTDTBT TH Du Tiến </div>" , unsafe_allow_
